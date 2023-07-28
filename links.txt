@@ -3,3 +3,4 @@ How to upload a CSV file into Google Colab - https://www.youtube.com/watch?v=woH
 Seaborn documentation - https://seaborn.pydata.org/
 Matplotlib documentation - https://matplotlib.org/
 Pandas documentation - https://pandas.pydata.org/
+Python interpreter, Stanford - https://cs.stanford.edu/people/nick/py/python-interpreter.html
