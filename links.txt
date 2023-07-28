@@ -1,0 +1,5 @@
+Getting started with Google Colab - https://www.youtube.com/watch?v=i-HnvsehuSw
+How to upload a CSV file into Google Colab - https://www.youtube.com/watch?v=woHxvbBLarQ
+Seaborn documentation - https://seaborn.pydata.org/
+Matplotlib documentation - https://matplotlib.org/
+Pandas documentation - https://pandas.pydata.org/
